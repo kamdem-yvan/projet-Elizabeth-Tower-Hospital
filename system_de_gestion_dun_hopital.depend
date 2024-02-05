@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1706057774 source:c:\users\user-pc\desktop\projet info\system_de_gestion_dun_hopital\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.c"
+
+1702635264 c:\users\user-pc\desktop\projet info\system_de_gestion_dun_hopital\menu.h
+
+1702635939 source:c:\users\user-pc\desktop\projet info\system_de_gestion_dun_hopital\menu.c
+	"menu.h"
+	<stdio.h>
+
+1706057795 c:\users\user-pc\desktop\projet info\system_de_gestion_dun_hopital\menu.c
+	"menu.c"
+	<stdio.h>
+
+1707082772 source:c:\users\kamdem ivan\desktop\projet info\system_de_gestion_dun_hopital\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1707082772 c:\users\kamdem ivan\desktop\projet info\system_de_gestion_dun_hopital\menu.h
+
+1706738041 source:c:\users\kamdem ivan\desktop\projet info\system_de_gestion_dun_hopital\menu.c
+	"menu.h"
+	<stdio.h>
+
